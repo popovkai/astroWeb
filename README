@@ -1,11 +1,3 @@
-# Kai Yang's astrophoto website
-
-URL: http://deepskymono.com/
-
-A dedicated website for deep sky imaging from my backyard.
-
-# Note
-
 git add -A
 git commit -m "add CNAME"
 git push (instead of git push origin gh-pages)
